@@ -1,0 +1,126 @@
+.note {
+  display: flex;
+  flex-direction: column;
+  background-color: #444;
+  width: 100%;
+  padding: 40px 40px 200px 40px;
+  margin-top: 100px;
+}
+
+.note-title {
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px;
+  margin-bottom: 20px;
+  color: #eee;
+}
+
+.note-button-close:hover {
+  background-color: #ff5661;
+  cursor: pointer;
+}
+
+.note-top {
+  display: flex;
+  flex-direction: row;
+}
+
+.note-top > input {
+  padding: 15px;
+  border-radius: 4px;
+  width: 80%;
+  border: none;
+  outline: none;
+  color: #444;
+  font-size: 15px;
+  margin-right: 5px;
+}
+
+.note-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  width: 20%;
+  padding: 10px;
+  border-radius: 4px;
+  color: #222;
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #e3e3e3;
+  transition: all 0.2s ease;
+}
+
+.note-button:hover {
+  transition: all 0.2s ease;
+  cursor: pointer;
+  color: #e3e3e3;
+  background-color: #989898;
+}
+
+.note-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.note-list-title {
+  color: #989898;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.note-result {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.note-result-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.note-result-button {
+  display: flex;
+  border: none;
+  align-items: center;
+  width: 90%;
+  height: 70px;
+  padding: 20px;
+  border-radius: 4px 0 0 4px;
+  margin: 15px 0 5px 0;
+  background-color: #686868;
+  color: #e3e3e3;
+  font-size: 15px;
+}
+
+.note-result-text {
+  margin-left: 10px;
+}
+
+.note-result-button:hover {
+  cursor: pointer;
+}
+
+.notes-not-found {
+  font-size: 14px;
+  color: #989898;
+}
+
+.note-result-button-remove {
+  display: flex;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  width: 10%;
+  border-radius: 0 4px 4px 0;
+  margin: 15px 0 5px 0;
+  background-color: #ff6961;
+  color: #e3e3e3;
+}
+
+.note-result-button-remove:hover {
+  background-color: #ff5661;
+  cursor: pointer;
+}
