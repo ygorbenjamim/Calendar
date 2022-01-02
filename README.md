@@ -13,4 +13,8 @@
 
 <p align="justify">No projeto estão presentes os recursos do flex box, onde o sistema é ajustado independente da resolução do monitor que está executando o sistema.</p>
 
-![f3](https://user-images.githubusercontent.com/22685987/147882478-b3fdbdce-e2a8-4199-9470-7b1c3bae056f.png)
+![f3](https://user-images.githubusercontent.com/22685987/147882601-66845eb6-616a-4751-86a5-a9fec7009da3.png)
+
+### Funcionalidades
+  - <p align="justify">O projeto possui sua base de dados presente em um servidor local para que todas as alterações não sejam perdidas, pois o sistema requer que as informações sejam mantidas.<p>
+  - <p align="justify">Está presente no projeto funcionalidades de CRUD para que o usuário consiga manipular as informações de anotação e marcação, inserindo, modificando ou removendo.</p>
