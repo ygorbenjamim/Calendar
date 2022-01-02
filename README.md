@@ -7,7 +7,7 @@
 
 ## Descrição
 <p align="justify">O sistema possui várias funções algorítimicas para a construção do script que é usado para a manipulação de vários dados, bem como a manipulação de datas do sistema para que seja exibido corretamente todos os dados atuais.</p>
-<p align="justify">Além da possibilidade de incluir anotações e marca-las ou desmarcalas, ou ainda exclui-las.</p>
+<p align="justify">Além da possibilidade de incluir anotações e marca-las ou desmarca-las, ou ainda exclui-las.</p>
 
 ![Home-Footer](https://user-images.githubusercontent.com/22685987/147882417-7955e2fb-552d-4fab-a9c7-c41d8f7e2779.png)
 
